@@ -1,4 +1,4 @@
-var alien_color: string = 'green';
+let alien_color: string = 'green';
 
 // Test for green alien
 if (alien_color === 'green') {

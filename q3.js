@@ -1,7 +1,7 @@
 "use strict";
 // Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
 Object.defineProperty(exports, "__esModule", { value: true });
-var Name = 'HeLlO wOrLd mOHID';
+let Name = 'HeLlO wOrLd mOHID';
 console.log(`in lower case ${Name.toLowerCase()}`);
 console.log(`in lower case ${Name.toUpperCase()}`);
 let tabName = Name.split(' ');
